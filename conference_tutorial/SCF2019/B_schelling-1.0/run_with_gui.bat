@@ -1,0 +1,1 @@
+julia -p 5 schelling2.jl 2x2 35X35 slurm=false plot_field=true plot_ascii=true max_step=100
